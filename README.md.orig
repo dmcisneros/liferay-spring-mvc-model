@@ -1,0 +1,8 @@
+dmartici-liferay-spring-mvc
+======================
+<<<<<<< HEAD
+hotfix01
+=======
+br01 after hotfix
+>>>>>>> iss53
+This example project defines a Liferay hello-world portlet using the Spring MVC Portlet framework.
